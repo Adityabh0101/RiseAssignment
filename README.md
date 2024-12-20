@@ -55,5 +55,4 @@ Phone ScreenShots
 ![Screenshot 2024-12-21 000150](https://github.com/user-attachments/assets/4f726778-a710-4b00-823e-2bb007e1d866)
 
 Ipad Screenshots
-![Screenshot 2024-12-21 000159](https://github.com/user-attachments/assets/065797bc-0f4d-460c-a2b9-1fc87b2ae6b4)
 ![Screenshot 2024-12-21 000215](https://github.com/user-attachments/assets/2ec3e454-8e17-4936-bdb0-9d5d854a6322)
