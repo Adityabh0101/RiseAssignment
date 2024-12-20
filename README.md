@@ -46,4 +46,14 @@ I spent some time making sure file uploads worked properly. I used React Dropzon
 Dynamic Content Rendering:
 By storing the Sidebar and Timeline data in arrays, I was able to render the content dynamically, which helped improve performance.
 
+Desktop Screenshots
+![Screenshot 2024-12-21 000112](https://github.com/user-attachments/assets/57883178-4e83-465f-be54-7a40c7dfef61)
+![Screenshot 2024-12-21 000256](https://github.com/user-attachments/assets/65c4ce25-88ad-4264-86f4-a311c4f3fa26)
 
+Phone ScreenShots
+![Screenshot 2024-12-21 000140](https://github.com/user-attachments/assets/c7b13fdc-fad2-46d8-bb42-c7a56b18b5f5)
+![Screenshot 2024-12-21 000150](https://github.com/user-attachments/assets/4f726778-a710-4b00-823e-2bb007e1d866)
+
+Ipad Screenshots
+![Screenshot 2024-12-21 000159](https://github.com/user-attachments/assets/065797bc-0f4d-460c-a2b9-1fc87b2ae6b4)
+![Screenshot 2024-12-21 000215](https://github.com/user-attachments/assets/2ec3e454-8e17-4936-bdb0-9d5d854a6322)
