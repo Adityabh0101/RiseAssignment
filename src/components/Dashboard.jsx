@@ -5,7 +5,7 @@ import MainArea from './MainArea'
 
 const Dashboard = () => {
   return (
-    <div className='h-screen grid md:grid-rows-12 grid-rows-12 overflow-hidden'>
+    <div className='h-screen grid md:grid-rows-12 grid-rows-12'>
         <Navbar/>
         <div className='md:row-span-11 row-span-11 grid md:grid-cols-12'>
             <Sidebar/>
