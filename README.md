@@ -22,6 +22,7 @@ Approach and Structure
 
 App Component:
 The main component that holds the entire dashboard layout, including the Navbar, Sidebar, MainArea, and Timeline.
+
 Navbar:
 
 A navigation bar with icons for notifications and user profile. It also shows the logo and title.
