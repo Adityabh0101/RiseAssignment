@@ -26,6 +26,7 @@ The main component that holds the entire dashboard layout, including the Navbar,
 Navbar:
 
 A navigation bar with icons for notifications and user profile. It also shows the logo and title.
+
 Sidebar:
 
 A vertical menu with links like Dashboard, MyCases, and Activities. I used an array to store the sidebar links for better performance.
